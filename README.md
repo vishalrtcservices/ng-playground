@@ -1,6 +1,6 @@
 # NgDownloadZip
 
-hello
+git clone https://vishalrtcservices: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@github.com/vishalrtcservices/ng-playground.git
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
 
